@@ -8,8 +8,8 @@ Then build `$domstor` object, you must define two parameters `org_id` and `locat
 
 ```php
 $domstor = $builder->build(array(
-    'org_id' => 1,          // Organisation id
-    'location_id' => 2004,  // Location id
+    'org_id' => 3063,          // Organisation id
+    'location_id' => 2653,  // Location id
 ));
 ```
 
